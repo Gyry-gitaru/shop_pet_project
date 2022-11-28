@@ -1,0 +1,74 @@
+[
+  {
+    "orders": [
+      {
+        "id": "3",
+        "count": 1
+      },
+      {
+        "id": "11",
+        "count": 2
+      }
+    ],
+    "shoppingCart": [
+      {
+        "id": "2",
+        "count": 3
+      },
+      {
+        "id": "16",
+        "count": 2
+      }
+    ],
+    "id": "1",
+    "name": "Katya",
+    "email": "katherina.shypovskaya@gmail.com",
+    "password": "123",
+    "status": false
+  },
+  {
+    "orders": [],
+    "shoppingCart": [
+      {
+        "id": "16",
+        "count": 1
+      },
+      {
+        "id": "3",
+        "count": 3
+      }
+    ],
+    "id": "2",
+    "name": "Taras",
+    "email": "taras.grygorovych@gmail.com",
+    "password": "123",
+    "status": false
+  },
+  {
+    "orders": [
+      {
+        "id": "16",
+        "count": 1
+      },
+      {
+        "id": "2",
+        "count": 1
+      }
+    ],
+    "shoppingCart": [],
+    "id": "3",
+    "name": "Lesya",
+    "email": "lesya@gmail.com",
+    "password": "123",
+    "status": false
+  },
+  {
+    "orders": [],
+    "shoppingCart": [],
+    "id": "4",
+    "name": "Denys",
+    "email": "denys@gmail.com",
+    "password": "123",
+    "status": false
+  }
+]

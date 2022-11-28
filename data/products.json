@@ -1,0 +1,140 @@
+[
+    {
+        "title": "Aircraft Carrier",
+        "img": "aircraft-carrier",
+        "price": 30000,
+        "sale": true,
+        "salePercent": 2,
+        "category": "Boat"
+    },
+    {
+        "title": "Boat",
+        "img": "boat",
+        "price": 700,
+        "sale": false,
+        "category": "Boat"
+    },
+    {
+        "title": "Bus",
+        "img": "bus",
+        "price": 300,
+        "sale": true,
+        "salePercent": 10,
+        "category": "Bus"
+    },
+    {
+        "title": "Cabriolet",
+        "img": "cabriolet",
+        "price": 900,
+        "sale": true,
+        "salePercent": 25,
+        "category": "Car"
+    },
+    {
+        "title": "Commercial Plane",
+        "img": "commercial-plane",
+        "price": 1000,
+        "sale": false,
+        "category": "Aircraft"
+    },
+    {
+        "title": "Electric car",
+        "img": "electric-car",
+        "price": 3000,
+        "sale": false,
+        "category": "Car"
+    },
+    {
+        "title": "Helicopter police",
+        "img": "helicopter-police",
+        "price": 1000,
+        "sale": true,
+        "salePercent": 15,
+        "category": "Helicopter"
+    },
+    {
+        "title": "Helicopter",
+        "img": "helicopter",
+        "price": 900,
+        "sale": true,
+        "salePercent": 35,
+        "category": "Helicopter"
+    },
+    {
+        "title": "Minibus",
+        "img": "minibus",
+        "price": 700,
+        "sale": true,
+        "salePercent": 5,
+        "category": "Bus"
+    },
+    {
+        "title": "Motorbike",
+        "img": "motorbike",
+        "price": 200,
+        "sale": true,
+        "salePercent": 25,
+        "category": "Bike"
+    },
+    {
+        "title": "Off Road",
+        "img": "off-road",
+        "price": 600,
+        "sale": false,
+        "category": "Car"
+    },
+    {
+        "title": "Police Car",
+        "img": "police-car",
+        "price": 100,
+        "sale": false,
+        "category": "Car"
+    },
+    {
+        "title": "School Bus",
+        "img": "school-bus",
+        "price": 150,
+        "sale": true,
+        "salePercent": 8,
+        "category": "Bus"
+    },
+    {
+        "title": "Scooter",
+        "img": "scooter",
+        "price": 80,
+        "sale": true,
+        "salePercent": 13,
+        "category": "Bike"
+    },
+    {
+        "title": "Small Plane",
+        "img": "small-plane",
+        "price": 3000,
+        "sale": false,
+        "category": "Aircraft"
+    },
+    {
+        "title": "Speed Boat",
+        "img": "speed-boat",
+        "price": 2000,
+        "sale": true,
+        "salePercent": 34,
+        "category": "Boat"
+    },
+    {
+        "title": "Sport Car",
+        "img": "sport-car",
+        "price": 10000,
+        "sale": true,
+        "salePercent": 3,
+        "category": "Car"
+    },
+    {
+        "title": "Suv",
+        "img": "Suv",
+        "price": 300,
+        "sale": true,
+        "salePercent": 13,
+        "category": "Bus"
+    }
+]
